@@ -1,6 +1,9 @@
 # Project-2
 Brief Summary- We are predicting the chance of someone’s cause of death being heart failure and how we came to that conclusion. With the data and prediction success rate, we can predict someone else’s chances of dying due to heart failure based on the same factors. 
 
+Proposal - (https://docs.google.com/document/d/1qtG_XoZzxDyI_i7viRR309Nu9mhoJ3uNpi6zMTZ-dOM/edit?usp=sharing)
+
+Presentation - (https://docs.google.com/presentation/d/18wLKpaZE-xaelKbnPBxCN91TUTblFGr9HeJ1EMArA3I/edit?usp=sharing)
 
 ![download (3)](https://github.com/jmontva/Project-2/assets/132391456/6db2f798-051b-40f3-8252-a673300dff1a)
 ![download](https://github.com/jmontva/Project-2/assets/132391456/952bf829-c8a3-4d41-a18c-a529a4d475af)
