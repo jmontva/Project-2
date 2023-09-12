@@ -1,5 +1,5 @@
 # Project-2
-Brief Summary- We are predicting the chance of someone’s cause of death being heart failure and how we came to that conclusion. With the data and prediction success rate, we can predict someone else’s chances of dying due to heart failure based on the same factors. 
+Brief Summary- We are predicting the chance of someone’s cause of death being heart failure and how we came to that conclusion. With the data and prediction success rate, we can predict someone else’s chances of dying due to heart failure based on the same factors. Heart failure is an overwhelming issue in humanity so the more information and correlating factors we can find, the better we can understand it.
 
 Proposal - (https://docs.google.com/document/d/1qtG_XoZzxDyI_i7viRR309Nu9mhoJ3uNpi6zMTZ-dOM/edit?usp=sharing)
 
